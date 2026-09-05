@@ -10,11 +10,11 @@ We also build accessible LaTeX documents and thesis templates that meet WCAG 2.1
  
 ## Our Services
  
-1. **[Word to LaTeX Conversion](https://thelatexlab.com/word-to-latex/)** — Get your Word documents converted into submission-ready LaTeX, complete with equations in math mode, professional tables, and verified bibliographies. We support over 200 journal and university templates, including IEEE, ACM, Springer, Elsevier, MDPI, Nature, and arXiv.
-2. **[PDF to LaTeX Conversion](https://thelatexlab.com/pdf-to-latex/)** — We professionally reconstruct LaTeX from PDF layouts, ensuring all equations, tables, and references are accurately represented.
-3. **[PhD Thesis Formatting](https://thelatexlab.com/thesis-latex-formatting/)** — Thesis LaTeX formatting that meets exact university specifications and LaTeX template, covering chapters, TOC, bibliography, figures, and more.
+1. **[Word to LaTeX Conversion](https://thelatexlab.com/word-to-latex/)** - Get your Word documents converted into submission-ready LaTeX, complete with equations in math mode, professional tables, and verified bibliographies. We support over 200 journal and university templates, including IEEE, ACM, Springer, Elsevier, MDPI, Nature, and arXiv.
+2. **[PDF to LaTeX Conversion](https://thelatexlab.com/pdf-to-latex/)** - We professionally reconstruct LaTeX from PDF layouts, ensuring all equations, tables, and references are accurately represented.
+3. **[PhD Thesis Formatting](https://thelatexlab.com/thesis-latex-formatting/)** - Thesis LaTeX formatting that meets exact university specifications and LaTeX template, covering chapters, TOC, bibliography, figures, and more.
 4. **[LaTeX Template Development](https://thelatexlab.com/latex-template-service-for-publishers/)** — We develop LaTeX templates for theses, books, journals, and more.
-5. **[LaTeX Accessibility](https://thelatexlab.com/latex-thesis-template-ada-wcag/)** — Meet WCAG 2.1 AA and ADA Title II requirements.
+5. **[LaTeX Accessibility](https://thelatexlab.com/latex-thesis-template-ada-wcag/)** - Meet WCAG 2.1 AA and ADA Title II requirements.
 ## How We Work
  
 We provide a manual, expert-driven LaTeX formatting service that produces professional, high-quality, submission-ready output. Our process includes applying and testing your target journal's template in Overleaf before delivery. We offer transparent, fixed pricing starting at $49, with a 100% compilation guarantee and fast turnaround times.
@@ -34,6 +34,7 @@ We provide a manual, expert-driven LaTeX formatting service that produces profes
 - 72-Hour Standard Delivery
 - Quote Response within 2 Hours
 - 100+ University Thesis Templates Supported
+
 ## Get in Touch
  
 - Website: [thelatexlab.com](https://thelatexlab.com/)
